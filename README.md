@@ -1,7 +1,3 @@
-
-# HearthStone_Deck_Maker
-
-
 HearthStone Card Collection Generator
 =========================
 
